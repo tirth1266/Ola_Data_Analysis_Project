@@ -32,6 +32,6 @@ The data was synthetically generated using ChatGPT. The dataset includes the fol
 
 * **Business Impact:** The insights from the dashboard are intended to help improve operational efficiency, enhance customer satisfaction, and drive overall business growth.
 
-## Dashboard Preview
+## 🫣 Sneak Peek
 
 ![Dashboard Preview](https://github.com/tirth1266/Ola_Data_Analysis_Project/blob/main/Sneak%20peek%20of%20Dashboard.png)
